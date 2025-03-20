@@ -1,0 +1,6 @@
+# IntelliJ IDEA configuration
+.idea/
+*.iml
+*.ipr
+*.iws
+target/
